@@ -10,5 +10,9 @@ package
         {
             trace("Ich hoffe mal, das hier geht auch.");
         }
+        public function juliansFunktion():void
+        {
+            trace("Hallo, heute geht nix und ich bin ein Versager.");
+        }
     }
 }
