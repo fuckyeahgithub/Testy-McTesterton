@@ -8,7 +8,7 @@ package
         }
         public function notMain():void
         {
-            traceeeeeeeee("Ich hoffe mal, das hier geht auch.");
+            trace("Ich hoffe mal, das hier geht auch.");
         }
     }
 }
